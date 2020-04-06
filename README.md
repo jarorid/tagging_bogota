@@ -1,4 +1,4 @@
-# tagging_bogota
+# Tagging Bogota
 
 With this program we are tagging the geopoints with the Bogotá district and minicipality. This is necesary for data preprocess for more human comprensive because these tag we can filter a cluster the locations.
 
